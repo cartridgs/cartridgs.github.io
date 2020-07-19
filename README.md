@@ -31,7 +31,7 @@
 	<p>Over the course of the next three months all the way to August, I hope that I will be able to get a grasp of the basics of how a computer works.</p>
 
 <audio controls autoplay>
-  <source src="01-CarryOnWaywardSon.mp3" type="audio/ogg">
+  <source src="[01-CarryOnWaywardSon](/001.mp3)" type="audio/ogg">
   Your browser does not support the audio element.
 </audio>
 
@@ -40,6 +40,7 @@
 	
 
 	<img src="https://en.wikipedia.org/wiki/Into_the_Jaws_of_Death#/media/File:Into_the_Jaws_of_Death_23-0455M_edit.jpg" alt="Into The Jaws of Death" width="500" height="333" class="center">
+	<p> </p>
 	
 	<p2>June 6, 1944</p2>
 
