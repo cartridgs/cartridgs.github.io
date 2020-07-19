@@ -30,12 +30,6 @@
 
 	<p>Over the course of the next three months all the way to August, I hope that I will be able to get a grasp of the basics of how a computer works.</p>
 
-<!--This Way Must let Repository Public-->
-<script>
-var audio = new Audio("01-CarryOnWaywardSon.mp3")
-audio.play()
-</script>
-
 
 	<h2>D-Day: Overview</h2>
 	
@@ -45,7 +39,8 @@ audio.play()
 	
 	<p2>June 6, 1944</p2>
 
-
+	<p> For more accurate information, please go to https://en.wikipedia.org/wiki/Operation_Overlord</p>
+	
 	<p> This invasion, planned by the Allied Powers, was to attack the Normandy coast of France. For a long time, the Allied powers wanted to regain foothold in France again ever since British retreat from France in 1940. After the bombing of Pearl Harbor in December of 1941, the US formally agreed to work with Britain. From there along with other Allied powers, began planning for the one of the biggest invasions in history which would become known as D-Day.</p>
 
 	<p>This attack took careful planning and a long time of gathering up resources. After several military campaigns from 1942 to 1943, they got a rough outline on where to launch their large scale military operation. For this operation to work, the combined strength and manpower of the Allied countries would be vital. Because British resources were being used up at a decently fast pace, the only other country that had a vast amount of resources at their disposal was the US. In result, the US appointed General Dwight D. Eisenhower as the Supreme Allied Commander in Europe. After thorough consideration and planning, the COSSAC’s, the group tasked to plan the Invasion of D-Day, decided to attack somewhere along the English Channel. Since Germany had started to fortifying heavily Pas De Calais region, they ultimately chose the Normandy beaches as the place to attack. Normandy was a weak spot in the German defenses at the time and would give a good opportunity to penetrate further into Europe and pave a path directly to German territory to win the war. Originally, the plan was to attack the beaches of Normandy in three to five separate groups. In order for that plan to work, Eisenhower and his other general, Bernard Montgomery, advised to strengthen the military force that was to land on the beaches. This was so they could stretch their attack area in order to capture the port city of Cherbourg. This would stretch the attack area to about 60 miles of beaches and an incredible amount of resources.</p>
