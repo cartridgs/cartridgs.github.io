@@ -1,5 +1,5 @@
 
-<!doctype html>
+
 
 <html lang="en">
 <head>
@@ -32,7 +32,6 @@
 
 <audio controls autoplay>
   <source src="01-CarryOnWaywardSon.mp3" type="audio/ogg">
-  <source src="01-CarryOnWaywardSon.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -41,8 +40,7 @@
 	
 
 	<img src="into the jaws of death.jpg" alt="Into The Jaws of Death" width="500" height="333" class="center">
-
-    <p>   <p>
+	
 	<p2>June 6, 1944</p2>
 
 
