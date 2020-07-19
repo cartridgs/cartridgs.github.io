@@ -32,6 +32,7 @@
 
 <audio controls autoplay>
   <source src="[01-CarryOnWaywardSon](/001.mp3)" type="audio/ogg">
+  <source src="[01-CarryOnWaywardSon](/001.mp3)" type="audio/ogg">
   Your browser does not support the audio element.
 </audio>
 
