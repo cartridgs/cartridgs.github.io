@@ -39,7 +39,7 @@
 	
 	<p2>June 6, 1944</p2>
 
-	<a> https://en.wikipedia.org/wiki/Operation_Overlord</a>
+	<a> https://en.wikipedia.org/wiki/Operation_Overlord alt="More information on Wiki</a>
 	
 	<p> This invasion, planned by the Allied Powers, was to attack the Normandy coast of France. For a long time, the Allied powers wanted to regain foothold in France again ever since British retreat from France in 1940. After the bombing of Pearl Harbor in December of 1941, the US formally agreed to work with Britain. From there along with other Allied powers, began planning for the one of the biggest invasions in history which would become known as D-Day.</p>
 
