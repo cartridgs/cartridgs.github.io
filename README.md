@@ -30,11 +30,11 @@
 
 	<p>Over the course of the next three months all the way to August, I hope that I will be able to get a grasp of the basics of how a computer works.</p>
 
-<audio controls autoplay>
-  <source src="[01-CarryOnWaywardSon](/001.mp3)" type="audio/ogg">
-  <source src="[01-CarryOnWaywardSon](/001.mp3)" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio>
+<!--This Way Must let Repository Public-->
+<script>
+var audio = new Audio("01-CarryOnWaywardSon.mp3")
+audio.play()
+</script>
 
 
 	<h2>D-Day: Overview</h2>
